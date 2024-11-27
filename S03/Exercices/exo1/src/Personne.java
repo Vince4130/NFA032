@@ -22,9 +22,9 @@ public class Personne {
         
     public static void main(String[] args) { 
         // System.out.println("It is " + (args != null && args.length >= 2));
-        Personne = new Personne();
+        Personne myPersonne = new Personne();
         System.out.println();
-        System.out.println('Bonjour ' + );
+        // System.out.println("Bonjour " + );
 
     } 
 }
